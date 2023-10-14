@@ -40,7 +40,37 @@
   * git rebase
   * git rebase -i
   * git reflog
-  
+
+
+## Collaborating
+
+* ### Syncing
+ * git remote
+ * git fetch
+ * git push
+ * git pull
+
+* ### Making a Pull Request
+
+* ### Using branches
+ * git branch
+ * git checkout
+ * git merge
+ * Merge conflicts
+ * Merge strategies
+
+* ### Comparing workflows
+ * Centralized Workflows
+ * Feature Branch Workflow
+ * Gitflow Workflow
+ * Forking Workflow
+
+## Advanced Tips
+ * ### Merging vs Rebasing
+ * ### Git Hooks 
+
+
+
 ## Resources
 
 * [Atlassian-Tutorial](https://www.atlassian.com/git/tutorials)
